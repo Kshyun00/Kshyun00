@@ -6,7 +6,7 @@ Agent 서비스를 직접 만들거나, 이미 돌아가는 사내 시스템에 
 
 ## 🚀 Projects
  
-> **[QApilot](TODO_REPO_URL)** · 2026.04 ~ 2026.06 · 6인<br>
+> **[QApilot](https://github.com/skala-QApilot)** · 2026.04 ~ 2026.06 · 6인<br>
 > 코드·문서를 읽어 E2E 통합 테스트를 자동 생성·실행·분석하는 Agentic QA 플랫폼<br>
 > `LangGraph 파이프라인` `K8s 배포`
  

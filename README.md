@@ -2,7 +2,7 @@
 
 Agent 서비스를 직접 만들거나, 이미 돌아가는 사내 시스템에 Agent를 붙여 사람이 반복하던 판단과 작업을 자동화하는 작업을 하고 있습니다.
 
-[Portfolio](링크) · [Resume](링크)
+[포트폴리오](https://drive.google.com/file/d/1HHjicuWZA88i06ZxjpOy652SSiL5LcGN/view?usp=sharing) · [이력서](https://drive.google.com/file/d/1Q2tOrHJafxofNYM8h2ctGVEoEZXsitnT/view?usp=sharing)
 
 ## Projects
  
